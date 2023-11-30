@@ -1,0 +1,147 @@
+.button-vdzp[data-v-33fb56e0] {
+  border-radius:8px;
+  font-weight:var(--font-weight-semi-bold);
+  padding:0 16px
+}
+.button-vdzp[data-v-33fb56e0] span:first-child {
+  display:flex;
+  align-items:center
+}
+.button-vdzp[data-v-33fb56e0]:disabled {
+  opacity:1
+}
+.button-vdzp[data-v-33fb56e0]:not([left],
+[right]) span:first-child {
+  justify-content:center
+}
+[left].button-vdzp[data-v-33fb56e0] span:first-child {
+  justify-content:start
+}
+[right].button-vdzp[data-v-33fb56e0] span:first-child {
+  justify-content:end
+}
+.button-vdzp[data-v-33fb56e0]:not(.el-button--small):not(.el-button--mini):not(.el-button--micro):not(.el-button--custom):not(.is-circle) {
+  min-width:200px;
+  font-size:var(--font-size-padrao);
+  height:42px
+}
+.button-vdzp.el-button--mini[data-v-33fb56e0],
+.button-vdzp.el-button--small[data-v-33fb56e0] {
+  min-height:32px
+}
+.button-vdzp.el-button--small[data-v-33fb56e0] {
+  min-width:100px
+}
+.button-vdzp.el-button--mini[data-v-33fb56e0] {
+  min-width:80px
+}
+.button-vdzp.el-button--mini[data-v-33fb56e0],
+.button-vdzp.el-button--small[data-v-33fb56e0] {
+  font-size:var(--font-size-padrao)
+}
+.button-vdzp.el-button--micro[data-v-33fb56e0] {
+  min-width:unset;
+  min-height:unset;
+  width:-moz-fit-content;
+  width:fit-content;
+  height:-moz-fit-content;
+  height:fit-content;
+  padding:var(--espaco-1) var(--espaco-2);
+  font-size:var(--font-size-pequena)
+}
+.button-vdzp.el-button--custom[data-v-33fb56e0] {
+  font-size:var(--font-size-padrao);
+  height:42px
+}
+.button-vdzp.is-round[data-v-33fb56e0] {
+  border-radius:50px
+}
+.button-vdzp.is-circle[data-v-33fb56e0] {
+  min-width:34px;
+  min-height:34px;
+  border-radius:100%;
+  padding:0
+}
+.el-button--small.is-circle[data-v-33fb56e0] {
+  min-width:25px;
+  min-height:25px
+}
+.button-vdzp.el-button--primary[data-v-33fb56e0] {
+  background-color:var(--roxo);
+  border-color:var(--roxo)
+}
+.button-vdzp.el-button--default[data-v-33fb56e0] {
+  background-color:var(--cinza45);
+  border-color:var(--cinza45);
+  color:var(--branco)
+}
+.button-vdzp.el-button--default.is-plain[data-v-33fb56e0] {
+  color:var(--cinza75)
+}
+.button-vdzp.el-button--branco.is-plain[data-v-33fb56e0] {
+  color:var(--branco);
+  border-color:var(--branco)
+}
+[vitrine].button-vdzp.el-button--primary[data-v-33fb56e0] {
+  background-color:var(--vendizapPrimary);
+  border-color:var(--vendizapPrimary);
+  color:var(--branco)
+}
+[vitrine].button-vdzp.el-button--info[data-v-33fb56e0] {
+  background-color:var(--vendizapSecondary);
+  border-color:var(--vendizapSecondary);
+  color:var(--branco)
+}
+.button-vdzp.el-button.is-plain[data-v-33fb56e0] {
+  background-color:transparent;
+  font-weight:var(--font-weight-normal)
+}
+.button-vdzp.el-button--success.is-plain[data-v-33fb56e0] {
+  border-color:var(--rosa);
+  color:var(--rosa)
+}
+.button-vdzp.el-button--primary.is-plain[data-v-33fb56e0] {
+  border-color:var(--roxo);
+  color:var(--roxo)
+}
+.button-vdzp.el-button--info.is-plain[data-v-33fb56e0] {
+  color:var(--azul-claro);
+  border-color:var(--azul-claro)
+}
+[vitrine].button-vdzp.el-button--primary.is-plain[data-v-33fb56e0] {
+  color:var(--vendizapPrimary);
+  border-color:var(--vendizapPrimary)
+}
+[vitrine].button-vdzp.el-button--info.is-plain[data-v-33fb56e0] {
+  color:var(--vendizapSecondary);
+  border-color:var(--vendizapSecondary)
+}
+[whats].button-vdzp.el-button--primary[data-v-33fb56e0] {
+  color:var(--branco);
+  background-color:var(--verde-whats);
+  border-color:var(--verde-whats)
+}
+@media screen and (max-width:320px) {
+  .button-vdzp[data-v-33fb56e0]:not(.el-button--small):not(.el-button--mini):not(.el-button--micro):not(.el-button--custom):not(.is-circle) {
+    min-width:160px;
+    height:34px
+  }
+  .button-vdzp.el-button--custom[data-v-33fb56e0] {
+    height:34px
+  }
+  .button-vdzp.el-button--mini[data-v-33fb56e0],
+  .button-vdzp.el-button--small[data-v-33fb56e0] {
+    height:28px
+  }
+  .button-vdzp.el-button--small[data-v-33fb56e0] {
+    min-width:90px
+  }
+  .button-vdzp.el-button--mini[data-v-33fb56e0] {
+    min-width:70px
+  }
+}
+@media screen and (min-width:1920px) {
+  .button-vdzp.el-button--micro[data-v-33fb56e0] {
+    font-size:var(--font-size-padrao)
+  }
+}

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="20.336252"
+   height="19.920088"
+   viewBox="0 0 20.336252 19.920088"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="z_outline_cinza.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="20.691642"
+     inkscape:cx="10.487326"
+     inkscape:cy="9.7382315"
+     inkscape:window-width="2560"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Grupo_1821" />
+  <g
+     id="Grupo_1821"
+     data-name="Grupo 1821"
+     transform="translate(-2112.4719,-727.99996)">
+    <path
+       id="Caminho_7173"
+       data-name="Caminho 7173"
+       d="m 2131.42,728 h -14.7 a 1.4,1.4 0 0 0 -1.29,0.86 l -2.19,5.34 a 1.369,1.369 0 0 0 0.13,1.3 1.385,1.385 0 0 0 1.16,0.62 h 5.77 l -7.53,9.55 a 1.4,1.4 0 0 0 -0.16,1.47 1.374,1.374 0 0 0 1.25,0.78 h 14.7 a 1.4,1.4 0 0 0 1.29,-0.86 l 2.19,-5.34 a 1.369,1.369 0 0 0 -0.13,-1.3 1.385,1.385 0 0 0 -1.16,-0.62 h -5.77 l 7.53,-9.55 a 1.4,1.4 0 0 0 0.16,-1.47 1.374,1.374 0 0 0 -1.25,-0.78 z m -0.66,12.85 a 0.335,0.335 0 0 1 0.29,0.16 0.339,0.339 0 0 1 0.03,0.33 l -2.19,5.34 v 0 a 0.348,0.348 0 0 1 -0.32,0.22 h -14.7 a 0.349,0.349 0 0 1 -0.32,-0.2 0.344,0.344 0 0 1 0.04,-0.37 l 7.93,-10.06 a 0.342,0.342 0 0 1 0.61,0.21 v 2.98 a 1.387,1.387 0 0 0 1.39,1.39 z m 0.94,-11.24 -7.93,10.06 a 0.342,0.342 0 0 1 -0.61,-0.21 v -2.98 a 1.387,1.387 0 0 0 -1.39,-1.39 h -7.24 a 0.335,0.335 0 0 1 -0.29,-0.16 0.339,0.339 0 0 1 -0.03,-0.33 l 2.19,-5.34 v 0 a 0.348,0.348 0 0 1 0.32,-0.22 h 14.7 a 0.349,0.349 0 0 1 0.32,0.2 0.344,0.344 0 0 1 -0.04,0.37 z"
+       fill="#02044F"
+       style="fill:#000000;fill-opacity:0.05" />
+  </g>
+</svg>

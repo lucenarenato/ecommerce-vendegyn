@@ -1,0 +1,78 @@
+.money-vdzp[data-v-6b5b5478] {
+  font-size:var(--font-size-padrao);
+  border-radius:32px;
+  height:42px;
+  border:none;
+  background-color:var(--cinza30);
+  text-align:left;
+  padding:0 15px;
+  width:100%;
+  line-height:1.2!important
+}
+[center].money-vdzp[data-v-6b5b5478] {
+  text-align:center
+}
+.money-vdzp[size^=mini][data-v-6b5b5478] {
+  width:90px;
+  text-align:center
+}
+.money-vdzp[size^=small][data-v-6b5b5478] {
+  width:110px;
+  text-align:center
+}
+.money-vdzp[data-v-6b5b5478]:not(.fake-placeholder) {
+  color:var(--cinza100)!important
+}
+.money-vdzp[data-v-6b5b5478]::-moz-placeholder {
+  color:var(--cinza50)!important
+}
+.money-vdzp.fake-placeholder[data-v-6b5b5478],
+.money-vdzp[data-v-6b5b5478]::placeholder {
+  color:var(--cinza50)!important
+}
+.money-vdzp[data-v-6b5b5478]:disabled {
+  background-color:var(--cinza45);
+  color:var(--cinza100)!important;
+  cursor:not-allowed
+}
+[disabled^=disabled] .vdzp-label[data-v-6b5b5478] {
+  color:var(--cinza45)
+}
+.money-vdzp.theme-inline[data-v-6b5b5478] {
+  color:var(--roxo)!important;
+  background-color:var(--branco);
+  border-bottom:1px solid var(--cinza35);
+  border-radius:0;
+  font-weight:medium
+}
+.money-vdzp.theme-inline[data-v-6b5b5478]::-moz-placeholder {
+  color:var(--roxo)!important;
+  opacity:.7;
+  font-weight:medium
+}
+.money-vdzp.theme-inline.fake-placeholder[data-v-6b5b5478],
+.money-vdzp.theme-inline[data-v-6b5b5478]::placeholder {
+  color:var(--roxo)!important;
+  opacity:.7;
+  font-weight:medium
+}
+.money-vdzp.theme-transparente[data-v-6b5b5478] {
+  background-color:transparent;
+  padding:0
+}
+@media only screen and (max-width:320px) {
+  .money-vdzp[size^=mini][data-v-6b5b5478] {
+    width:80px
+  }
+  .money-vdzp[size^=small][data-v-6b5b5478] {
+    width:100px
+  }
+}
+@media only screen and (min-width:1920px) {
+  .money-vdzp[size^=mini][data-v-6b5b5478] {
+    width:100px
+  }
+  .money-vdzp[size^=small][data-v-6b5b5478] {
+    width:120px
+  }
+}
